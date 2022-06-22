@@ -15,7 +15,7 @@ After connecting at least two clients you will receive the following prompts in 
 
 Client number to connect to:
 - Type the number of a client connected to the server **that is not your own client number**, Ex: "**2**"
-- The other client will be sent a connection request
+- (The other client will be sent a connection request)
 
 Connection Request "Client Number"
 - Either type "**Accept**" or "**Reject**"

@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 
-clientNumber = 2  # client number of this client
+clientNumber = 1  # client number of this client
 serverAddressPort = ("127.0.0.1", 7070)  # hardcoded server address and port tuple
 bufferSize = 1024
 messageAddressPort = None  # global variable for the address and port of the client we're connecting or connected to

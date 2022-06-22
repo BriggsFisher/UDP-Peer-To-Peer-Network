@@ -22,5 +22,5 @@ Connection Request "Client Number"
 
 If the connection is accepted any message sent in either terminal will appear on both client terminals
 
-**Connection Termination** will disconnect the two clients from chatting
+**Connection Termination** will disconnect the two clients from chatting  
 **Client Leave** will disconnect the client from the server

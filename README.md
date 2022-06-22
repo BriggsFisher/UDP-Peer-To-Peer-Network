@@ -18,8 +18,7 @@ Client number to connect to:
 - The other client will be sent a connection request
 
 Connection Request "Client Number"
-- Type *Accept*
-- Type *Reject*
+- Either type *Accept* or *Reject*
 
 If the connection is accepted any message sent in either terminal will appear on both client terminals
 
